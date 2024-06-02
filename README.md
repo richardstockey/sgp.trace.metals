@@ -6,7 +6,7 @@ Stockey, R.G., Cole, D.B, Farrell, U.C., Agić, H., Boag, T.H., Brocks, J.J., Ca
 
 Details of the data download from the Sedimentary Geochemistry and Paleoenvironments Project, including the API call used, are included in the _Materials and Methods_ of this publication. 
 
-Code is provided in .Rmd files, and the output produced from each of these files is also provided in both HTML and pdf form. 
+Code is provided in .Rmd files, and the output produced from each of these files is also provided in both HTML and PDF format. 
 
 The included HTML renderings of our RMarkdown code are too large to be viewed in GitHub by default, but can be viewed on htmlpreview.github.io. Links to functional html renderings using this platform are expected to be the easiest to view and are provided here:
 
