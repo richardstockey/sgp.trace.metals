@@ -6,10 +6,14 @@ Stockey, R.G., Cole, D.B, Farrell, U.C., Agić, H., Boag, T.H., Brocks, J.J., Ca
 
 Details of the data download from the Sedimentary Geochemistry and Paleoenvironments Project, including the API call used, are included in the Materials and Methods of this publication. 
 
-The included HTML renderings of our RMarkdown code are too large to be viewed in GitHub by default, but can be viewed on htmlpreview.github.io. Links to functional html renderings using this platform are provided here:
+Code is provided in .Rmd files, and the output produced from each of these files is also provided in both HTML and pdf form. 
 
-[Appendix 1](https://htmlpreview.github.io/?https://github.com/richardstockey/sgp.trace.metals/blob/main/html-markdown-renderings/SGP-Appendix-1-Data-and-initial-filtering.html)
+The included HTML renderings of our RMarkdown code are too large to be viewed in GitHub by default, but can be viewed on htmlpreview.github.io. Links to functional html renderings using this platform are expected to be the easiest to view and are provided here:
 
-[Appendix 2](https://htmlpreview.github.io/?https://github.com/richardstockey/sgp.trace.metals/blob/main/html-markdown-renderings/SGP-Appendix-2-Spatial-temporal-bootstrap-and-boxplots.html)
+[Appendix 1](https://htmlpreview.github.io/?https://github.com/richardstockey/sgp.trace.metals/blob/main/html-markdown-renderings/SGP-Appendix-1-Data-and-initial-filtering.html) - Data and initial filtering.
 
-[Appendix 3](https://htmlpreview.github.io/?https://github.com/richardstockey/sgp.trace.metals/blob/main/html-markdown-renderings/SGP-Appendix-3-Monte-Carlo-Random-Forest-Analyses.html)
+[Appendix 2](https://htmlpreview.github.io/?https://github.com/richardstockey/sgp.trace.metals/blob/main/html-markdown-renderings/SGP-Appendix-2-Spatial-temporal-bootstrap-and-boxplots.html) - Spatial temporal bootstrap and boxplots. 
+
+[Appendix 3](https://htmlpreview.github.io/?https://github.com/richardstockey/sgp.trace.metals/blob/main/html-markdown-renderings/SGP-Appendix-3-Monte-Carlo-Random-Forest-Analyses.html) - Monte Carlo random forest analyses. 
+
+If you are interested in collaborations building on this code base, please contact Richard Stockey on r.g.stockey@soton.ac.uk. 
