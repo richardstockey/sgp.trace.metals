@@ -9,4 +9,4 @@ Details of the data download from the Sedimentary Geochemistry and Paleoenvironm
 The included HTML renderings of our RMarkdown code are too large to be viewed in GitHub by default, but can be viewed on htmlpreview.github.io. Links to functional html renderings using this platform are provided here:
 
 
-[Appendix 3]([url](https://htmlpreview.github.io/?https://github.com/richardstockey/sgp.trace.metals/blob/main/SGP-Appendix-3-Monte-Carlo-Random-Forest-Analyses.html))
+[Appendix 3](https://htmlpreview.github.io/?https://github.com/richardstockey/sgp.trace.metals/blob/main/SGP-Appendix-3-Monte-Carlo-Random-Forest-Analyses.html)
